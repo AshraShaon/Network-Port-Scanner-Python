@@ -10,7 +10,7 @@ A simple Python-based TCP port scanner used to identify open ports on a target h
 ## Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/Network-Port-Ccanner(Python).git
+git clone https://github.com/AshraShaon/Network-Port-Ccanner(Python).git
 
 ## Usage
 
